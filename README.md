@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/nicko170" target="blank"><img src="https://img.shields.io/twitter/follow/nicko170?logo=twitter&style=for-the-badge" alt="nicko170" /></a> </p>
 
-- 👨🏻‍💻 I spend my days @ [the Internet Association of Australia (@iaa_inc)](https://www.internet.asn.au/)
+- 👨🏻‍💻 I spend my days @ [the Internet Association of Australia (@iaa-inc)](https://www.internet.asn.au/)
 
 - 🌱 I’m currently learning **TailwindCSS**
 
