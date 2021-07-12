@@ -37,5 +37,5 @@
 
 <br/>
 ### Stats
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=nicko170&show_icons=true&locale=en" alt="nicko170" />&nbsp;<img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=nicko170&theme=default" alt="nicko170" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=nicko170&show_icons=true&locale=en" alt="nicko170" />&nbsp;<img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=nicko170&theme=default" alt="nicko170" /></p>
 
