@@ -16,7 +16,7 @@ jobs:
               with:
                 max_post_count: "5"
                 feed_list: "https://medium.com/feed/@nicko170"
-                template: "- [$title]($url): $description $newline"
+                template: "- [$title]($url) - $date: $newline $description $newline"
                 date_format: "UTC:ddd yyyy-mm-dd h:MM:ss TT Z"
                 filter_comments: "medium"
                 tag_post_pre_newline: "true"
