@@ -20,4 +20,5 @@ jobs:
                 date_format: "UTC:ddd yyyy-mm-dd h:MM:ss TT Z"
                 filter_comments: "medium"
                 tag_post_pre_newline: "true"
-                
+                item_exec: |
+                     post.description = post.description.replace(/<\/?[^>]+(>|$)/g, ""); 
