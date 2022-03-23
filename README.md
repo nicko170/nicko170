@@ -1,5 +1,4 @@
-<h1 align="center">Hey 👋, I'm Nick</h1>
-<h3 align="center">Lover all of things Networking and Open Source</h3>
+<h1>Hello, World 👋</h1>
 
 <p align="left"> <a href="https://twitter.com/nicko170" target="blank"><img src="https://img.shields.io/twitter/follow/nicko170?logo=twitter&style=for-the-badge" alt="nicko170" /></a> </p>
 
@@ -9,7 +8,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/nicko170](https://github.com/nicko170)
 
-- 📝 I sometimes write articles on [https://devlan.io/](https://devlan.io/)
+- 📝 I sometimes write articles on [https://npratley.net/](https://npratley.net/)
 
 - 📫 How to reach me **nick@npratley.net**
 <br>
