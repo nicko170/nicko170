@@ -15,7 +15,7 @@ jobs:
             - uses: gautamkrishnar/blog-post-workflow@master
               with:
                 max_post_count: "5"
-                feed_list: "https://medium.com/feed/@nicko170"
+                feed_list: "https://npratley.net/feed/"
                 template: "- *$date: $title*: $description $newline"
                 filter_comments: "medium"
                 tag_post_pre_newline: "true"
