@@ -12,7 +12,7 @@
 
 - 👨🏻‍💻 I spend my days @ the [Internet Association of Australia (@iaa-inc)](https://www.internet.asn.au/)
 
-- 🌱 I’m currently building a Kubernetes cluster for my personal things: [@DevLAN-io/infra] (https://github.com/devlan-io/infra)
+- 🌱 I’m currently building a Kubernetes cluster for my personal things: [@DevLAN-io/infra](https://github.com/devlan-io/infra)
 
 - 🌱 I’m currently learning **TailwindCSS**
 
