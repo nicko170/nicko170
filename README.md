@@ -1,8 +1,18 @@
 <h1>Hello, World 👋</h1>
 
-<p align="left"> <a href="https://twitter.com/nicko170" target="blank"><img src="https://img.shields.io/twitter/follow/nicko170?logo=twitter&style=for-the-badge" alt="nicko170" /></a> </p>
+<p align="left">
+  <a href="https://twitter.com/nicko170" target="blank"><img src="https://img.shields.io/twitter/follow/nicko170?logo=twitter&style=for-the-badge" alt="nicko170" /></a>
+  <a href="https://npratley.net/" target="blank"><img src="https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="npratley.net" /></a>
+  <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" alt="IntelliJ" />
+  <img src="http://img.shields.io/badge/-PHPStorm-181717?style=for-the-badge&logo=phpstorm&logoColor=white" alt="PHPStorm" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
+  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native" />
+  <img src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white" alt="MacOS" />
+</p>
 
-- 👨🏻‍💻 I spend my days @ [the Internet Association of Australia (@iaa-inc)](https://www.internet.asn.au/)
+- 👨🏻‍💻 I spend my days @ the [Internet Association of Australia (@iaa-inc)](https://www.internet.asn.au/)
+
+- 🌱 I’m currently building a Kubernetes cluster for my personal things: [@DevLAN-io/infra] (https://github.com/devlan-io/infra)
 
 - 🌱 I’m currently learning **TailwindCSS**
 
@@ -10,7 +20,7 @@
 
 - 📝 I sometimes write articles on [https://npratley.net/](https://npratley.net/)
 
-- 📫 How to reach me **nick@npratley.net**
+- 📫 Email me @ **nick@npratley.net**
 <br>
   
 ### Latest posts
